@@ -1,7 +1,7 @@
 <h1>Amigo Secreto - Praticando lógica com desafios</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br><br>O Desafio era fazer com que ao incluir os nomes, eles aparecam abaixo do "Amigos incluídos", separados por vírgula e quando clicarmos no botão "Sortear", abaixo do título "Sorteio", na parte inferior da tela, apareça como ficou o sorteio e quando clicar no botão reiniciar, o site ficar limpo.<br><br> Link do projeto: https://alura-amigo-secreto-piuntfp6h-ersjuniors-projects.vercel.app/</p>
+<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br><br>O Desafio era fazer com que ao incluir os nomes, eles aparecam abaixo do "Amigos incluídos", separados por vírgula e quando clicarmos no botão "Sortear", abaixo do título "Sorteio", na parte inferior da tela, apareça como ficou o sorteio e quando clicar no botão reiniciar, o site ficar limpo.<br><br> Link do projeto: https://alura-amigo-secreto-pearl.vercel.app/</p>
 
 ## 🚀 Tecnologias
 <div>
