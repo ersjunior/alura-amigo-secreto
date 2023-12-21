@@ -14,6 +14,7 @@ function adicionar() {
 
 function sortear () {
     embaralha(amigos)
+    document.getElementById('lista-sorteio').innerHTML = '';
     let sorteio = document.getElementById('lista-sorteio');
 
     for (let i = 0; i < amigos.length; i++) {
